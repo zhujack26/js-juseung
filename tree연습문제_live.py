@@ -16,7 +16,7 @@ def preorder(n):   # 전위순회
 #         postorder(ch1[n])
 #         print(n, end = '') #visit(n)
 
-V = int(input()) # 간선 수
+V = int(input()) # 간선 수, 마지막 정전번호
 arr = list(map(int, input().split()))
 E = V-1    # 정점 번호, 노드
 root = 1

@@ -1,10 +1,10 @@
-def inorder(n):
+def preorder(n):
     global count
     if n == 0:
         return
     count += 1
-    inorder(ch1[n])
-    inorder(ch2[n])
+    preorder(ch1[n])
+    preorder(ch2[n])
 
 T = int(input())
 for tc in range(1, T+1):
@@ -20,5 +20,5 @@ for tc in range(1, T+1):
             ch1[p] = c
 
     count = 0
-    inorder(N)
+    preorder(N)
     print(f"#{tc} {count}")

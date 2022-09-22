@@ -1,3 +1,5 @@
+import sys
+sys.stdin = open('input.txt')
 # 시작점을 찾는 함수
 def find_start(arr):
     for i in range(N):

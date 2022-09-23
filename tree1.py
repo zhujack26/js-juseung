@@ -39,7 +39,7 @@ ch2 = [0]*(V + 1)   # 표2
 par = [0]*(V + 1)
 for i in range(E):
     p, c = arr[i*2], arr[i*2+1]
-for j in range(0, E*2, 2):
+for j in range(0, E*2, 2)   :
     p, c = arr[j], arr[j+1]
     if ch1[p] == 0:
         ch1[p] = c

@@ -13,12 +13,8 @@ for tc in range(1, T+1):
     count = 0
     for i in range(1, N*N +1):
         arr[r][c] = i
-        # N*N 만큼 숫자를 찍으며 돌아야 하므로
         r += dr[direction]
         c += dc[direction]
-        # ex) 0 += 0
-        # ex) 1 += 1 2..3..4 계속 우측으로 이동
-
         if r < 0 or c <0 or r>= N or c >= N or arr[r][c] !=0:
             r -= dr[direction]
             c -= dc[direction]

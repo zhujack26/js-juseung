@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d11c9e1-9c81-441e-be8c-8bdda5ba406a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/보충/13732. 정사각형 판정/13732. 정사각형 판정.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11315. 오목 판정/11315. 오목 판정.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/11315. 오목 판정/11315. 오목 판정.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/.idea/보충.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/10988. K 번째 작은 수 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/10988 . 03_배열1_K 번째 작은 수 찾기/10988. K 번째 작은 수 찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/1954. 달팽이 숫자/1954. 달팽이 숫자_221007.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/1954. 달팽이 숫자/1954. 달팽이 숫자_221008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/보충/1954. 달팽이 숫자/1954.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/1954. 달팽이 숫자/1954.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13732. 정사각형 판정/13732. 정사각형 판정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2805. 농작물 수확하기/2805.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/2805. 농작물 수확하기/2805.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +53,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JS\Desktop\algorithm\보충" />
       <recent name="C:\Users\JS\Desktop\algorithm" />
       <recent name="C:\Users\JS\Desktop\algorithm\보충\1220. Magnetic" />
-      <recent name="C:\Users\JS\Desktop\algorithm\보충" />
       <recent name="C:\Users\JS\Desktop\알고리즘\algorithm\보충\11012. 사각영역들의 합" />
       <recent name="C:\Users\JS\Desktop\알고리즘\algorithm\보충" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13732. 정사각형 판정">
-    <configuration name="1220. Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13732. 정사각형 판정 (1)">
+    <configuration name="13732. 정사각형 판정 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/1220. Magnetic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/13732. 정사각형 판정" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/1220. Magnetic/1220. Magnetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/13732. 정사각형 판정/13732. 정사각형 판정.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14413. 격자판 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2805. 농작물 수확하기_221012_sol1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/14413. 격자판 칠하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/2805. 농작물 수확하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/14413. 격자판 칠하기/14413. 격자판 칠하기.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\JS\Desktop\algorithm\보충\2805. 농작물 수확하기\2805. 농작물 수확하기_221012_sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4615. 재미있는 오셀로 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2805. 농작물 수확하기_221012_sol2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/4615. 재미있는 오셀로 게임" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/2805. 농작물 수확하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/4615. 재미있는 오셀로 게임/4615. 재미있는 오셀로 게임.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/2805. 농작물 수확하기/2805. 농작물 수확하기_221012_sol2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5948. 새샘이의 7-3-5 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/5948. 새샘이의 7-3-5 게임" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/5948. 새샘이의 7-3-5 게임/5948. 새샘이의 7-3-5 게임.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13732. 정사각형 판정 (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.2805. 농작물 수확하기_221012_sol2" />
+        <item itemvalue="Python.2805. 농작물 수확하기_221012_sol1" />
         <item itemvalue="Python.13732. 정사각형 판정" />
-        <item itemvalue="Python.4615. 재미있는 오셀로 게임" />
-        <item itemvalue="Python.1220. Magnetic" />
-        <item itemvalue="Python.5948. 새샘이의 7-3-5 게임" />
-        <item itemvalue="Python.14413. 격자판 칠하기" />
       </list>
     </recent_temporary>
   </component>

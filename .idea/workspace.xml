@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d11c9e1-9c81-441e-be8c-8bdda5ba406a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/보충/13732. 정사각형 판정/13732. 정사각형 판정.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/보충/1860. 진기의 최고급 붕어빵/1860. 진기의 최고급 붕어빵.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13732. 정사각형 판정/13732. 정사각형 판정.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2805. 농작물 수확하기/2805.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/2805. 농작물 수확하기/2805.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/(보류) 1860. 진기의 최고급 붕어빵/1860.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/13732. 정사각형 판정/13732. 정사각형 판정.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/13732. 정사각형 판정/13732. 정사각형 판정.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/.idea/1873. 상호의 배틀필드.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/상호의 배틀필드.py" beforeDir="false" afterPath="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/상호의 배틀필드.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +67,28 @@
       <recent name="C:\Users\JS\Desktop\알고리즘\algorithm\보충" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.13732. 정사각형 판정 (1)">
+  <component name="RunManager" selected="Python.상호의 배틀필드">
+    <configuration name="상호의 배틀필드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/1873. 상호의 배틀필드" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/1873. 상호의 배틀필드/상호의 배틀필드.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="13732. 정사각형 판정 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13732. 정사각형 판정" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1860" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,32 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13732. 정사각형 판정" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/(보류) 1860. 진기의 최고급 붕어빵" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13732. 정사각형 판정/13732. 정사각형 판정.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2805. 농작물 수확하기_221012_sol1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/보충/2805. 농작물 수확하기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\JS\Desktop\algorithm\보충\2805. 농작물 수확하기\2805. 농작물 수확하기_221012_sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/보충/(보류) 1860. 진기의 최고급 붕어빵/1860.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.상호의 배틀필드" />
+        <item itemvalue="Python.1860" />
         <item itemvalue="Python.13732. 정사각형 판정 (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.2805. 농작물 수확하기_221012_sol2" />
-        <item itemvalue="Python.2805. 농작물 수확하기_221012_sol1" />
-        <item itemvalue="Python.13732. 정사각형 판정" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +218,11 @@
           <url>file://$PROJECT_DIR$/2669. 직사각형 네개의 합집합의 면적 구하기/2669.py</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/보충/1873. 상호의 배틀필드/상호의 배틀필드.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

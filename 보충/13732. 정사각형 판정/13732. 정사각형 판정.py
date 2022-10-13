@@ -47,7 +47,6 @@ for tc in range(1, int(input())+1):
     arr = [list(input()) for _ in range(N)]
     ans = 'yes'
     aa = []
-    flag = True
     for i in range(1, N+1):
         aa.append(i*i)   #최소 카운팅~최대 카운팅 숫자
     cnt = 0
@@ -55,6 +54,7 @@ for tc in range(1, int(input())+1):
         for j in range(N):
             if arr[i][j] =='#':
                 cnt += 1
+    flag = True
     if cnt in aa and cnt != 1:
         for i in range(N):
             if not flag:

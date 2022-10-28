@@ -14,4 +14,13 @@ console.log(numbers)
 numbers.pop()
 console.log(numbers)
 
-//배열 메서드 기초 04:18초
+console.log(numbers.includes(1))
+console.log(numbers.includes(100))
+
+console.log(numbers.indexOf(3))
+console.log(numbers.indexOf(100))
+
+console.log(numnber.join())
+console.log(numnber.join(''))
+console.log(numnber.join(' '))
+console.log(numnber.join('-'))

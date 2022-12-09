@@ -13,6 +13,9 @@ for tc in range(int(input())):
         visit.append(b)
         if sum(set(visit)) == sum(compare) and count != M:
             result.append(count)
-        elif sum(set(visit)) == sum(compare) and count == M and result == []:
+            for j in range(M-count):
+                c, d = map(int, input().split())
+            break
+        if sum(set(visit)) == sum(compare) and count == M:
             result.append(count)
-print(result)
+print(*result, sep='\n')

@@ -1,6 +1,6 @@
-result = []
-for tc in range(int(input())):
-    N, M = map(int, input().split())
+import sys
+for tc in range(int(sys.stdin.readline())):
+    N, M = map(int, sys.stdin.readline().split())
     visit = []
     compare = []
     count = 0
@@ -8,14 +8,24 @@ for tc in range(int(input())):
         compare.append(i)
     for i in range(M):
         count += 1
-        a, b = map(int, input().split())
-        visit.append(a)
-        visit.append(b)
-        if sum(set(visit)) == sum(compare) and count != M:
-            result.append(count)
+        a, b = map(int, sys.stdin.readline().split())
+        if a not in visit :
+            visit.append(a)
+        if b not in visit :
+            visit.append(b)
+        if sum(visit) == sum(compare) and count != M :
+            print(count)
             for j in range(M-count):
-                c, d = map(int, input().split())
+                c, d = map(int, sys.stdin.readline().split())
             break
-        if sum(set(visit)) == sum(compare) and count == M:
-            result.append(count)
-print(*result, sep='\n')
+        if sum(visit) == sum(compare) and count == M:
+            print(count)
+
+
+# 정답 코드
+# import sys
+# for _ in range(int(sys.stdin.readline())):
+#     N, M = map(int, sys.stdin.readline().split())
+#     for _ in range(M):
+#         a, b = map(int, sys.stdin.readline().split())
+#     print(N - 1)
